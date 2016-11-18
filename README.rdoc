@@ -1,7 +1,7 @@
 == README
 
-GEMCOM Project Application
-Tri-County Regional Black Chamber of Commerce Membership Subscription-based web application 
+GEMCOM Project Application:
+For Tri-County Regional Black Chamber of Commerce Membership Subscription-based web application 
 http://www.gemcom.biz
 
 Things you may want to cover:
